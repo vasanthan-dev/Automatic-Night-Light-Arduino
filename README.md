@@ -1,6 +1,6 @@
 # Automatic Night Light using Arduino(MY FIRST AURDINO PROJECT)
 
-This project uses a photoresistor (LDR) to detect light levels.
+This project uses a photoresistor (LDR) to detect light levels. vvv
 
 When the surroundings become dark, the LED automatically turns ON.
 When light is present, the LED turns OFF.
